@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BEFFD2</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <color name="screen1">#8BCBFF</color>
+    <color name="screen2">#E8BD00FF</color>
+    <color name="screen3">#FF1515</color>
+
+    <color name="active_dots">#0AF804</color>
+    <color name="inactive_dots">#FFF5EC</color>
+    </resources>

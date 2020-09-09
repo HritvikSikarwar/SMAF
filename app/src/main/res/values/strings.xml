@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SMAF</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="like">Like</string>
+    <string name="post">Post</string>
+
+    <string name="host">https://smassistant.000webhostapp.com/</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Slide 1 Title & Description -->
+    <string name="slide_1_title">Secure</string>
+    <string name="slide_1_description">More Secure And Reliber...</string>
+
+    <!--    Slide 1 Title & Description -->
+    <string name="slide_2_title">Assistant</string>
+    <string name="slide_2_description">Your Own Personal Healper...</string>
+
+    <!--    Slide 1 Title & Description -->
+    <string name="slide_3_title">Lighting Speed</string>
+    <string name="slide_3_description">Faster then Ever...</string>
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>
+</resources>
